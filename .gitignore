@@ -1,0 +1,56 @@
+# Contract
+
+#Node_Modules
+HydrogenProduction-contract/node_modules
+
+#.idea
+HydrogenProduction-contract/.idea
+
+#Artifacts and Cache
+HydrogenProduction-contract/artifacts/
+HydrogenProduction-contract/cache/
+
+# Deployment
+HydrogenProduction-contract/deployments
+
+#secrets
+HydrogenProduction-contract/.secrets.json
+
+# Ignoring Package json
+HydrogenProduction-contract/package-lock.json
+
+# Frontend
+
+# Logs
+HydrogenProduction-frontend/logs
+HydrogenProduction-frontend/*.log
+HydrogenProduction-frontend/npm-debug.log*
+HydrogenProduction-frontend/yarn-debug.log*
+HydrogenProduction-frontend/yarn-error.log*
+HydrogenProduction-frontend/pnpm-debug.log*
+HydrogenProduction-frontend/lerna-debug.log*
+
+HydrogenProduction-frontend/node_modules
+HydrogenProduction-frontend/.DS_Store
+HydrogenProduction-frontend/dist
+HydrogenProduction-frontend/dist-ssr
+HydrogenProduction-frontend/coverage
+HydrogenProduction-frontend/*.local
+
+HydrogenProduction-frontend//cypress/videos/
+HydrogenProduction-frontend//cypress/screenshots/
+
+# Editor directories and files
+HydrogenProduction-frontend/.vscode/*
+HydrogenProduction-frontend/!.vscode/extensions.json
+HydrogenProduction-frontend/.idea
+HydrogenProduction-frontend/*.suo
+HydrogenProduction-frontend/*.ntvs*
+HydrogenProduction-frontend/*.njsproj
+HydrogenProduction-frontend/*.sln
+HydrogenProduction-frontend/*.sw?
+
+HydrogenProduction-frontend/deployments
+HydrogenProduction-frontend/typechain
+HydrogenProduction-frontend/.secrets.ts
+HydrogenProduction-frontend/package-lock.json
